@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 # install the maven application
 
