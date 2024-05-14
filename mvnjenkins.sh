@@ -1,4 +1,14 @@
-#!/bin/sh
+#!/bin/bash
+
+# install the git and clone repository
+
+yum install git -y
+
+git clone https://github.com/v-sai-kumar/practicecode.git
+
+ls
+
+./mvnjenkins.sh
 
 # install the maven application
 
