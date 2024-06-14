@@ -1,5 +1,9 @@
 #!/bin/bash
 
+yum install git -y
+
+git --version
+
 # install the maven application
 
 wget https://dlcdn.apache.org/maven/maven-3/3.9.4/binaries/apache-maven-3.9.4-bin.tar.gz
