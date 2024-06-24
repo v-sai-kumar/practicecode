@@ -30,3 +30,5 @@ systemctl enable jenkins
 
 jenkins --version
 
+# docker install
+yum install docker -y 
